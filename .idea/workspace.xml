@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67fcaae8-21b3-4142-b7ab-293554abe398" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/palindrome">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1Y554FjHUqxgcYHKYUpk84GOxjx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11.0.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tutorial/haydikodlayalim" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.PalindromeApplication">
+    <configuration name="PalindromeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.concon.palindrome.PalindromeApplication" />
+      <module name="palindrome.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.concon.palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="palindrome.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.concon.palindrome.PalindromeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PalindromeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67fcaae8-21b3-4142-b7ab-293554abe398" name="Default Changelist" comment="" />
+      <created>1582219421697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582219421697</updated>
+      <workItem from="1582219425550" duration="449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="215" width="800" height="675" key="#Project_Structure" timestamp="1582219452691">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="588" y="215" width="800" height="675" key="#Project_Structure/66.27.1854.1053@66.27.1854.1053" timestamp="1582219452691" />
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1582219817743">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom/66.27.1854.1053@66.27.1854.1053" timestamp="1582219817743" />
+    <state width="1804" height="275" key="GridCell.Tab.0.center" timestamp="1582219817742">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.center/66.27.1854.1053@66.27.1854.1053" timestamp="1582219817742" />
+    <state width="1804" height="275" key="GridCell.Tab.0.left" timestamp="1582219817742">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.left/66.27.1854.1053@66.27.1854.1053" timestamp="1582219817742" />
+    <state width="1804" height="275" key="GridCell.Tab.0.right" timestamp="1582219817743">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.right/66.27.1854.1053@66.27.1854.1053" timestamp="1582219817742" />
+    <state width="1804" height="275" key="GridCell.Tab.1.bottom" timestamp="1582219817743">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.1.bottom/66.27.1854.1053@66.27.1854.1053" timestamp="1582219817743" />
+    <state width="1804" height="275" key="GridCell.Tab.1.center" timestamp="1582219817743">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.1.center/66.27.1854.1053@66.27.1854.1053" timestamp="1582219817743" />
+    <state width="1804" height="275" key="GridCell.Tab.1.left" timestamp="1582219817743">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.1.left/66.27.1854.1053@66.27.1854.1053" timestamp="1582219817743" />
+    <state width="1804" height="275" key="GridCell.Tab.1.right" timestamp="1582219817743">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.1.right/66.27.1854.1053@66.27.1854.1053" timestamp="1582219817743" />
+    <state x="286" y="121" width="1395" height="861" key="new project wizard" timestamp="1582219646267">
+      <screen x="66" y="27" width="1854" height="1053" />
+    </state>
+    <state x="286" y="121" width="1395" height="861" key="new project wizard/66.27.1854.1053@66.27.1854.1053" timestamp="1582219646267" />
+  </component>
+</project>
